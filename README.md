@@ -1,16 +1,14 @@
-## Hi there 👋
+# Matheus Antao
 
-<!--
-**Matheusanttao/Matheusanttao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on scalable and modern web applications.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,cs,php,postgres,mysql,docker,git,github,vscode" />
+</p>
+
+## 📫 Contact
+
+- LinkedIn: linkedin.com/in/seu-linkedin
+- Email: seuemail@email.com
