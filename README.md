@@ -10,6 +10,10 @@ React • Node.js • TypeScript • C# • PHP
   <img src="https://skillicons.dev/icons?i=react,nodejs,ts,cs,php,postgres,mysql,git,github,vscode" />
 </p>
 
+## About
+
+Most of my projects are private for security and client confidentiality reasons.
+
 ## Contact
 
 🌐 https://matheusantao.com.br  
